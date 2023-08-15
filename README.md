@@ -26,14 +26,11 @@ The HTML document includes:
 - JavaScript
 
 ## Links
-* [Deployed webpage](https://villettec.github.io/Module_)
+* [Deployed webpage](https://villette0.github.io/Module_)
 
-* [Repository](https://github.com/villettec/Module_)
+* [Repository](https://github.com/villette0/Module_)
 
 ## Screenshot
 ![image](./assets/images/readme-screenshot.png)
 
 ## Credit
-Villette Comfort
-
-villette@live.com
